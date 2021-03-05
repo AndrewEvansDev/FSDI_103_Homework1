@@ -1,0 +1,6 @@
+const food = ("pho"), season = ("winter"), restaurant = ("Pho Tau Bay"), altRest = ("Pho Market"), place = ("beach"), placeAdjective = ("relaxing"), altPlace = ("forest"), hobby1  = ("gaming"), hobby2 = ("reading"), hobby3 = ("diy projects"), travelSpot = ("Japan"), travelItem  = ("Pagodas"), travelItem2 = ("Kyoto"), travelFood = ("sushi"), kids = ("2"), newphews = ("5"), nieces = ("2"), brothers = ("5"), sisters = ("2"),  cousins = ("7");
+
+document.write(
+`My favorite ${food} is and I like to eat it in the ${season}! The best restaurant to get it at is ${restaurant} but I also like ${altRest}. I love the ${place} because it's ${placeAdjective} but I also like going to the ${altPlace}. My favorite hobbies to do at home are ${hobby1} & ${hobby2}. but I also find myself doing ${hobby3} quite often while at home. I would like to travel to ${travelSpot} someday so I can see ${travelItem} and also the ${travelItem2}. I would also like to try the ${travelFood} in the country it's made. I have ${kids} kid(s), ${newphews} nephews, and ${nieces} nieces. I have ${brothers} brothers, ${sisters} sister(s) and ${cousins} cousin(s).`)
+
+//I was going to turn them all into prompts but I figured that might be a little to much fun for you,  you're welcome lol
